@@ -1,0 +1,39 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\ooyedepo\\Documents\\solidity\\contracts\\MyContract.sol": {
+      "lastModificationDate": 1629105505698,
+      "contentHash": "54bcf9d019a4844aae29599339dc7523",
+      "sourceName": "contracts/MyContract.sol",
+      "solcConfig": {
+        "version": "0.7.3",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "MyContract"
+      ]
+    }
+  }
+}
